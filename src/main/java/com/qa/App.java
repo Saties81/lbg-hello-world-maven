@@ -1,7 +1,7 @@
 package com.qa;
 
 /**
- * Hello world!
+ * Hello world Saties!
  *
  */
 public class App 
@@ -17,7 +17,7 @@ public class App
     }
 
     public static String sayHello(){
-        return "Hello World!";
+        return "Hello World!"; 
     }
 
     public static String sayGoodbye(){
